@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router';
 import { graphql } from 'react-apollo'
-import query from '../queries/currentUser';
-import mutation from '../mutations/logout'
+import query from '../queries/CurrentUser';
+import mutation from '../mutations/Logout'
 
 class Header extends Component {
   onLogoutClick = () => {

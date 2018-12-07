@@ -1,6 +1,6 @@
 {
   "db": {
-    "dbName": "userauthdb",
+    "dbName": "auth",
     "host": "localhost",
     "port": 27017
   }
