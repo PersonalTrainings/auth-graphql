@@ -1,0 +1,7 @@
+{
+  "db": {
+    "dbName": "userauthdb",
+    "host": "localhost",
+    "port": 27017
+  }
+}
